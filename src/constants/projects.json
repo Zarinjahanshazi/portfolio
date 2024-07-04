@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "Medi-Shop",
+    "description": "MediShop is a comprehensive online pharmacy with user-friendly features robust user authentication, and dedicated dashboards for users, sellers, and admins.Cour ",
+    "thumbnail": "projects/medi-shop.png",
+    "deployed": "//medishop-client.web.app/",
+    "github": "https://github.com/Zarinjahanshazi/medishop-client",
+    "github_server": "https://github.com/Zarinjahanshazi/medishop-server",
+    "feature": [
+      "1.Admin Dashboard: Manage users, categories, payments, sales reports, banner advertisements.",
+      "2.Seller Dashboard: Manage medicines, view payment history, request advertisements.",
+      "3.User Dashboard: Displays user’s payment history with transaction ID and status."
+    ],
+    "usedTechnologies": [
+      "Reactjs",
+      "nodejs",
+      "mongoDB",
+      "express"
+    ],
+    "date": "July 2024"
+  },
+  {
+    "id": "2",
+    "title": "TouristTrekker",
+    "description": "Your ultimate travel companion. Explore destinations, plan adventures, book experiences, and connect with fellow travelers on this immersive and inspiring platform.",
+    "thumbnail": "projects/tourist_trekker.png",
+    "deployed": "https://tourism-management-86b72.web.app/",
+    "github": "https://github.com/Zarinjahanshazi/tourism-management-client",
+    "github_server": "https://github.com/Zarinjahanshazi/tourism-management-server",
+    "feature": [
+      "1.Accessibility Features",
+      "2.Social Media Integration",
+      "3.Multilingual Support"
+    ],
+    "usedTechnologies": [
+      "Reactjs",
+      "nodejs",
+      "mongoDB",
+      "express"
+    ],
+    "date": "July 2024"
+  },
+  {
+    "id": "3",
+    "title": "Foodle",
+    "description": "Foodle is a web platform that connects food donors with those in need, allowing users to add, manage, and request food items, with features like search, sorting, and user profiles.",
+    "thumbnail": "projects/food.png",
+    "deployed": "https://food-station-59c20.web.app/",
+    "github": "https://github.com/Zarinjahanshazi/food-station-client",
+    "github_server": "https://github.com/Zarinjahanshazi/food-station-server",
+    "feature": [
+      "1.Food details page with request functionality",
+      "2.Food addition and management system",
+      "3.Private routes for managing and requesting foods"
+    ],
+    "usedTechnologies": [
+      "Reactjs",
+      "nodejs",
+      "mongoDB",
+      "express"
+    ],
+    "date": "July 2024"
+  }
+]
